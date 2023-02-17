@@ -9,4 +9,4 @@ dplyr, qdapRegex, stringr, tidyr and reshape2.
 
 The new and tidy version of the financial table is labeled as **"sar_financial.report.csv"**. 
 
-The folder labeled as "XML_Table_Cleaning" is the same description above, however this time i used the **XML** and **xml2** packages to clean the spreadsheet that contains the XML tables as a column. The newer version uses less code and is a lot cleaner than the original.
+The folder labeled as "XML_Table_Cleaning" is the same description above, however this time i used the **XML** and **xml2** packages to clean the spreadsheet that contains the XML tables as a column. The newer version uses less code and it's cleaner than the original.
